@@ -7,4 +7,4 @@
 - *GitHub.* ms02
 -  GitHub. ms02
 
-- don't put octcat in remote repo 
+- OK to put octcat in remote repo 
